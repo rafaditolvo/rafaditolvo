@@ -6,7 +6,7 @@ An avid programmer and fast learner. Always trying to improve development and co
 
 
 
-## Contatos:
+##
 
 <div>
 
