@@ -4,10 +4,7 @@
 I'm a Software Developer at the Adolfo Lutz Group. 
 An avid programmer and fast learner. Always trying to improve development and communication processes. I love simple and effective solutions to all problems.
 
-<div><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></div>
-<div><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></div>
-<div><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></div> 
-<div><img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></div>
+
 
 ## Contatos:
 
@@ -15,6 +12,17 @@ An avid programmer and fast learner. Always trying to improve development and co
 
 <a href="https://www.linkedin.com/in/rafaelditolvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
+
+## My Favourite Tools:
+<div>
+            <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          </div>
+<div><img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></div>
+<div><img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></div>
+<div><img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></div> 
+<div><img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></div>
 
 
 
