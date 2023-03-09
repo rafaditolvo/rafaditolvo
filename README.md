@@ -11,6 +11,20 @@ An avid programmer and fast learner. Always trying to improve development and co
 <a href="https://www.linkedin.com/in/rafaelditolvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+## My Favourite Tools:
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></div> 
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></div>
+            
+     
+                    
+
+
+            
+          
+
 <!--
 **rafaditolvo/rafaditolvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
