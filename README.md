@@ -21,7 +21,7 @@ An avid programmer and fast learner. Always trying to improve development and co
           </td></div>
 <td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> </td>
 <td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> </td>
-<td><img height=40 width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> </i></div></td></table>
+<td><img height=40 width=40 style={{color: white;}} src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> </i></div></td></table>
            
 
 
