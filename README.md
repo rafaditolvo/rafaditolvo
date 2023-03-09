@@ -17,7 +17,7 @@ An avid programmer and fast learner. Always trying to improve development and co
 
 ## My Favourite Tools:
 <div>
-            <table  border="0" ><td border="0" > <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <table border="1" cellspacing="0" rules="none"   ><td border="0" > <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           </td></div>
 <td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> </td>
 <td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> </td>
