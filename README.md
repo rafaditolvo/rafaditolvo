@@ -21,7 +21,7 @@ An avid programmer and fast learner. Always trying to improve development and co
           </div>
 <div><img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> React.js</div>
 <div><img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> Node.js</div>
-<div><img height=30 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></div>
+<div><img height=30 width=30 color='white' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> Express.js</div>
 
 
 
