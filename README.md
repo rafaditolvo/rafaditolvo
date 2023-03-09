@@ -2,7 +2,7 @@
 
 
 I'm a Software Developer at the Adolfo Lutz Group. 
-An avid programmer and fast learner. Always trying to improve development and communication processes. I love simple and effective solutions to all problems.
+An avid programmer and fast learner. Always trying to improve development and communication processes.
 
 
 
