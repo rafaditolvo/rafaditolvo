@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+I'm a Software Developer at the Adolfo Lutz Group. 
+An avid programmer and fast learner. Always trying to improve development and communication processes. I love simple and effective solutions to all problems.
+
+## Contatos:
+
+<div>
+
+<a href="https://www.linkedin.com/in/rafaelditolvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <!--
 **rafaditolvo/rafaditolvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
