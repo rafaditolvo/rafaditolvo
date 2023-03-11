@@ -24,7 +24,7 @@ An avid programmer and fast learner. Always trying to improve development and co
 <td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> </td>
  <td><img height=40 width=40  src= "https://avatars.githubusercontent.com/u/54212428?s=200&v=4" </td>
           <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+            <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
           </td>
 <td><img height=40 width=40 style={{color: white;}} src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> </i></td></div>
            
