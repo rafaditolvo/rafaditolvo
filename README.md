@@ -4,17 +4,6 @@
 I'm a Software Developer at the Adolfo Lutz Group. 
 An avid programmer and fast learner. Always trying to improve development and communication processes.
 
-
-
-## Contact me:
-
-<div>
-
-<a href="https://www.linkedin.com/in/rafaelditolvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
 ## My Favourite Tools:
 
           
@@ -27,6 +16,19 @@ An avid programmer and fast learner. Always trying to improve development and co
             <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
           </td>
 <td> <img height=40 width=40 style="background-color:green;padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></td></div>
+
+
+
+## Contact me:
+
+<div>
+
+<a href="https://www.linkedin.com/in/rafaelditolvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+
            
 
 
