@@ -26,7 +26,7 @@ An avid programmer and fast learner. Always trying to improve development and co
           <td>
             <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
           </td>
-<td> <i class="devicon-express-original-wordmark"></i><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> </i></td></div>
+<td> <img height=40 width=40  class="devicon-express-original-wordmark"></i></td></div>
            
 
 
