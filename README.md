@@ -1,35 +1,31 @@
-### Hi there 👋
-
-
-I'm a Software Developer at the Adolfo Lutz Group. 
-An avid programmer and fast learner. Always trying to improve development and communication processes.
-
-## My Favourite Tools:
-
-          
-<div style={{margin: 60px 0;}} >
-<td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
-<td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> </td>
-<td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> </td>
- <td><img height=40 width=40 style"border-radius:20px"  src= "https://avatars.githubusercontent.com/u/54212428?s=200&v=4" </td>
- <td><img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></td>
-<td> <img height=40 width=40 style="background-color:green;padding:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></td></div>
 
 
 
-## Contact me:
+### 💼 Experiência
 
-<div>
+- Grupo Apper - Jul de 2023 - Atualidade
+> Desenvolvimento e aprimoramento contínuo de aplicações voltadas para o setor de contábil.
 
-<a href="https://www.linkedin.com/in/rafaelditolvo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+- Deovita Saúde - Desenvolvedor Fullstack (Jun de 2022 - Jul de 2023)
+ > Desenvolvimento de aplicativo para a área de saúde.
 
+### 🌱 Aprendendo Atualmente
 
+- C#
+- Docker
+- Rancher
+- Angular
 
+### 🚀 Projetos Destacados
 
-           
+- App Deovita Saúde Inteligente - https://apps.apple.com/br/app/deovita/id1545985928
+- Mob Telecom - https://assinemob.com.br/
 
+### 📫 Como me Encontrar
 
+https://rafaelditolvo.vercel.app/
 
+### 💬 Sobre Mim
 
-     
+Sinta-se à vontade para me seguir no GitHub e entrar em contato comigo. Estou sempre interessado em conhecer novas pessoas e colaborar em projetos interessantes!
+
