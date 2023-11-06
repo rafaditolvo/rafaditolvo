@@ -12,6 +12,7 @@
 ### 🌱 Aprendendo Atualmente
 
 - C#
+- C++
 - Docker
 - Rancher
 - Angular
