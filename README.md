@@ -3,10 +3,12 @@
 
 ### 💼 Experiência
 
-- Grupo Apper - Jul de 2023 - Atualidade
+- Farmácias Pague Menos - Jan de 2024 - Atualidade.
+
+- Grupo Apper - Jul de 2023 - Jan de 2024.
 > Desenvolvimento e aprimoramento contínuo de aplicações voltadas para o setor de contábil.
 
-- Deovita Saúde - Desenvolvedor Fullstack (Jun de 2022 - Jul de 2023)
+- Deovita Saúde - Desenvolvedor Fullstack (Jun de 2022 - Jul de 2023).
  > Desenvolvimento de aplicativo para a área de saúde.
 
 ### 🌱 Aprendendo Atualmente
